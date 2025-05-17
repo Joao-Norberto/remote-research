@@ -2,6 +2,8 @@
 
 **remote-research** é uma aplicação Python projetada para facilitar pesquisas remotas por meio de um servidor dedicado. O projeto utiliza contêineres Docker para simplificar a implantação e gerenciamento do ambiente.
 
+Este projeto foi desenvolvido como parte do curso [MCP: Building Rich-Context AI Apps with Antropic](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/) da **DeepLearning.AI**.
+
 ## 🚀 Funcionalidades
 
 - Servidor de pesquisa remoto implementado em `research_server.py`
